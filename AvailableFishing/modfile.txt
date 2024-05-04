@@ -1,0 +1,4 @@
+Top Import "config.lua"
+
+To Scripts/WeaponShopData.lua
+Import "main.lua"
